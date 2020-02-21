@@ -69,7 +69,7 @@
   "gamesettings.startgame": "STARTA SPEL",
   "gamesettings.creatingworld": "SKAPAR VÄRLD",
   "gamesettings.mode": "Spelläge",
-  "gamesettings.createslot": "Creating game slot...",
+  "gamesettings.createslot": "Skapar spel utrymme...",
   "gamesettings.createslot.error": "Fel vid skapandet av spelet",
   "gamesettings.createslot.error.info": "Make sure you are online and try again.",
   "gamesettings.size": "Map Size",
