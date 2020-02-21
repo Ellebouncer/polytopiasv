@@ -71,7 +71,7 @@
   "gamesettings.mode": "Spelläge",
   "gamesettings.createslot": "Skapar spel utrymme...",
   "gamesettings.createslot.error": "Fel vid skapandet av spelet",
-  "gamesettings.createslot.error.info": "Make sure you are online and try again.",
+  "gamesettings.createslot.error.info": "Se till att du är online och försök igen.",
   "gamesettings.size": "Map Size",
   "gamesettings.size.tiny": "Tiny",
   "gamesettings.size.normal": "Normal",
