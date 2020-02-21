@@ -72,7 +72,7 @@
   "gamesettings.createslot": "Skapar spel utrymme...",
   "gamesettings.createslot.error": "Fel vid skapandet av spelet",
   "gamesettings.createslot.error.info": "Se till att du är online och försök igen.",
-  "gamesettings.size": "Kart storlek",
+  "gamesettings.size": "Kartstorlek",
   "gamesettings.size.tiny": "Liten",
   "gamesettings.size.normal": "Normal",
   "gamesettings.size.large": "Stor",
